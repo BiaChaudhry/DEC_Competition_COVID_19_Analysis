@@ -21,7 +21,6 @@ PLEASE FIND THE ATTACHED FILES:
 2. PDF Format of above Source Code Notebook for better readability and portability:
     Farhana_Rahat_Bia_DEC260411_Data_Video_Comp_CODE_PDF.pdf 
 
-3. VIDEO file: (size: 25.8 MB): DEC260411_Video.mp4
 
 ----------------------------------------------------------------------------------------------------------
 
